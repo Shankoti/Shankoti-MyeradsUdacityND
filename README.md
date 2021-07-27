@@ -7,7 +7,7 @@ The app provides you with three shelves (Read, Currently Reading, Want to Read )
 - run this command into your terminal
 
 ```
- git clone https://github.com/Shankoti/Shankoti-Shankoti-Shankoti-MyeradsUdacityND.git
+ git clone https://github.com/Shankoti/Shankoti-Shankoti-Shankoti-Shankoti-MyeradsUdacityND.git
 ```
 
 ```
